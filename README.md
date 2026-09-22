@@ -21,7 +21,17 @@ interested in **Networking, Cybersecurity, IT Infrastructure and Cloud Computing
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rashmiwayendra)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/rashmiwayendra)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/wendyy_rash/)
-[![Threads](https://img.shields.io/badge/Threads-Profile-black?style=for-the-badge&logo=threads)](https://www.threads.com/@wendyy_rash)
+<p align="left">
+<a href="https://www.linkedin.com/in/rashmiwayendra">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/rashmiwayendra">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/wendyy_rash/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.threads.com/@wendyy_rash">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+</p>
